@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OpenProjects">
-				<Option output="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug/OpenProjects.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug"/>
+				<Option output="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug/OpenProjects.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 OpenProjects"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 OpenProjects"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OpenProjects/fast">
-				<Option output="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug/OpenProjects.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug"/>
+				<Option output="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug/OpenProjects.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -55,55 +55,55 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 OpenProjects/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 OpenProjects/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\OpenProjects\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Sergiu\OneDrive\Documents\Data-Structures-C\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/DoubleLinkedList/list.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/DoubleLinkedList/list.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/Queue/queue.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/Queue/queue.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/Shared/Actions/assert_plus.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/Shared/Actions/assert_plus.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/Shared/Actions/display.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/Shared/Actions/display.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/Shared/Structures/node.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/Shared/Structures/node.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/Stack/stack.h">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/Stack/stack.h">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/main.c">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/main.c">
 			<Option target="OpenProjects"/>
 		</Unit>
-		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/OpenProjects/CMakeLists.txt">
+		<Unit filename="C:/Users/Sergiu/OneDrive/Documents/Data-Structures-C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
