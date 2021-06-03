@@ -1,0 +1,3 @@
+C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug/CMakeFiles/OpenProjects.dir
+C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergiu/OneDrive/Documents/OpenProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
