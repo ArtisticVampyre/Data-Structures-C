@@ -4,15 +4,16 @@
 #include "Stack/stack.h"
 #include "Queue/queue.h"
 
+
 void DoubleLinkedListTest(){
 
 }
 
 void QueueTest(){
     printf("Queue\n");
-    queue *my_new_queue = initialize_queue(10);
-    enqueue(my_new_queue,15);
-    printf("%d\n",(int)dequeue(my_new_queue));
+    queue *my_new_queue = initialize_queue(10,20);
+    printf("Adding element %d\n",enqueue(my_new_queue,15));
+    printf("Number %d\n",(int)dequeue(my_new_queue));
     printf("%d",(int)dequeue(my_new_queue));
 }
 
@@ -28,6 +29,10 @@ void StackTest(){
     node* last_element = get(my_new_stack);
     printf("Last Element : %d",last_element->data);
     print_stack(my_new_stack);
+}
+
+void BTTest(){
+
 }
 
 int main() {
